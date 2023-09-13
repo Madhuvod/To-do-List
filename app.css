@@ -1,0 +1,24 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    padding-top: 120px;
+    text-align: center;
+    background-color: beige;
+    background-image: url(../img/notepad.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+#todoinput { 
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px;
+}   
+
+#todolist{
+    margin-left: 1px;
+}
+
+.button {
+    height: 30px;
+    width: 120px;
+}
